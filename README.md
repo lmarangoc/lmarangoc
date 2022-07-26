@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Laura Arango👋</h1>
-<h2 align="center">A passionate frontend developer from Colombia</h2>
 <div align="center">
   <a href="https://github.com/lmarangoc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmarangoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
