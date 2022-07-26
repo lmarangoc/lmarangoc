@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmarangoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarangoc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
+<div display="flex" flex-direction="row">
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
