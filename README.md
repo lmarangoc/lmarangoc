@@ -44,10 +44,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
   </p>
-//  <h3 align="left">Connect with me:</h3>
-//  <p align="left">
-//    <a href="https://linkedin.com/in/lmarangoc/" target="_blank">
-//      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-//    </a>
-//  </p>
+{/*  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/lmarangoc/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </p> */}
 </div>
